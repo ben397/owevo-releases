@@ -40,16 +40,16 @@ are kept on your Owevo account, so log back in with your number and Owevo PIN.
 
 ## Staying safe
 
-- Only download Owevo from this page or from owevo.app.
+- Only download Owevo from this page or from [the Owevo website](https://owevo-website.onrender.com/download).
 - Owevo will **never** ask for your M-Pesa PIN. You sign in with your own 4-digit Owevo PIN.
 - When you paste an M-Pesa message, it is read on your phone. Your M-Pesa balance
   never leaves your phone.
 
 ## Help
 
-- Website: [owevo.app](https://owevo.app)
-- Privacy Policy: [owevo.app/privacy](https://owevo.app/privacy)
-- Terms of Service: [owevo.app/terms](https://owevo.app/terms)
+- Website: [owevo-website.onrender.com](https://owevo-website.onrender.com)
+- [Privacy Policy](https://owevo-website.onrender.com/privacy)
+- [Terms of Service](https://owevo-website.onrender.com/terms)
 - Support: [support@owevo.app](mailto:support@owevo.app). We answer within 7 days.
 
 ---
